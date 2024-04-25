@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Camaron haciendo dunk de pana ⚡</h2>
 <br>
 <div align=center>
 
