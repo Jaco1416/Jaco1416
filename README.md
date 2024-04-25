@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joaquin+Galarce!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👾;+I'm+Joaquin+Galarce!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A junior developer from Chile</h3>
 
 <br/>
 
@@ -12,22 +12,22 @@
  
  🔭 I’m currently studiying on **Duocuc**
  
- 🌱 I’m currently learning **React, Java, wave control**
+ 🌱 I’m currently learning **React, Java, wave control (¬_¬ )**
 
-💬 Ask me about **Node.js, ionic, Firebase... or anything [here]([https://github.com/salesp07/salesp07/issues](https://www.youtube.com/watch?v=dQw4w9WgXcQ))**
+💬 Ask me about **Node.js, ionic, Firebase... but i don´t know a lot of them [here]()**
 
-⚡ Fun fact **Doblo y choclo**
+⚡ Fun fact **Habia una vez un camion que levaba choclo...Doblo y choclo.**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:joa.galarce@duocuc.cl">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://cl.linkedin.com/in/joaqu%C3%ADn-galarce-n%C3%BA%C3%B1ez-03aaa7251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com/Jaco1416" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
