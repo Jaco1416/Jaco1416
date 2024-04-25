@@ -67,7 +67,7 @@
 <br/>
 
 <div align="center">
-<a href='https://www.instagram.com/jaconchetumare/' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Follow me on instagram' /></a>
+<button href="https://www.instagram.com/jaconchetumare/">Follow me on instagram!</button>
 </div>
 
 <br/>
