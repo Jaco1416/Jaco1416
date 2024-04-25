@@ -58,7 +58,7 @@
 <br>
 <div align=center>
 
-<img alt="fotito" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.memedroid.com%2Fmemes%2Ftag%2Fcamaron&psig=AOvVaw0UEIFbAoQ3S-pJQYym0gRc&ust=1714157498559000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPis47eE3oUDFQAAAAAdAAAAABAE" />
+<img alt="fotito" src="https://images3.memedroid.com/images/UPLOADED29/65905a081ce0a.jpeg"/>
 
 <br/><br/>
 
