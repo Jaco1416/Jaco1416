@@ -67,7 +67,7 @@
 <br/>
 
 <div align="center">
-<a href='https://www.instagram.com/jaconchetumare/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' border='0' alt='Follow me on instagram' /></a>
+<a href='https://www.instagram.com/jaconchetumare/' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Follow me on instagram' /></a>
 </div>
 
 <br/>
