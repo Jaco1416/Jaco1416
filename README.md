@@ -57,11 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Jaco1416.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Jaco1416.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Jaco1416.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
+<img alt="fotito" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.memedroid.com%2Fmemes%2Ftag%2Fcamaron&psig=AOvVaw0UEIFbAoQ3S-pJQYym0gRc&ust=1714157498559000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPis47eE3oUDFQAAAAAdAAAAABAE" />
 
 <br/><br/>
 
