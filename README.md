@@ -67,7 +67,9 @@
 <br/>
 
 <div align="center">
-<button href="https://www.instagram.com/jaconchetumare/">Follow me on instagram!</button>
+<a href="https://www.instagram.com/jaconchetumare/">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 <br/>
