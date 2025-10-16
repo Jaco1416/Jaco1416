@@ -16,7 +16,6 @@
 
 💬 Ask me about **Node.js, ionic, Firebase... but i don´t know a lot of them [here]()**
 
-⚡ Fun fact **Habia una vez un camion que levaba choclo...Doblo y choclo.**
 
  </div>
  
@@ -54,11 +53,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Camaron haciendo dunk de pana ⚡</h2>
+<h2 align="center">⚡  ⚡</h2>
 <br>
 <div align=center>
 
-<img alt="fotito" src="https://images3.memedroid.com/images/UPLOADED29/65905a081ce0a.jpeg"/>
+
 
 <br/><br/>
 
