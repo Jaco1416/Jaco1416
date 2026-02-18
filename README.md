@@ -7,17 +7,12 @@
 <h3 align="center">🚀 Junior Developer from Chile 🇨🇱</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Studying-Duoc%20UC-yellow?style=flat-square&logo=read-the-docs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-React%20%26%20Java-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Studied in-Duoc%20UC-yellow?style=flat-square&logo=read-the-docs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Python-blue?style=flat-square" />
 </p>
 
 <div align="center">
- 
- 🔭 I’m currently studying at **Duoc UC**
- 
- 🌱 I’m currently learning **React, Java and wave control (¬_¬ )**
-
- 💬 Ask me about **Node.js, Ionic or Firebase**... *I'm still figuring them out, but let's learn together!* 🤝
+  I’m currently working at **Interhaus. ltda** developing **LUMI**, an LLM focused on raising and caring for children.
 
 </div>
 
@@ -33,7 +28,7 @@
   <a href="https://github.com/Jaco1416" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/jaconchetumare/">
+  <a href="https://www.instagram.com/lccn.jaco/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
@@ -41,34 +36,16 @@
 <hr/>
 
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
-<p align="center"><i>(The ones I use... or try to use without breaking everything xd)</i></p>
+<p align="center"><i>These are the tools I use.</i></p>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,flask,mysql,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mysql,mongodb,firebase,supabase,astro" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" />
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jaco1416/Jaco1416/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaco1416&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaco1416&layout=compact&theme=tokyonight" height="170" />
-</div>
-
-<hr/>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
